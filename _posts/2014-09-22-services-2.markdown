@@ -1,0 +1,9 @@
+---
+layout: default
+img: do-you.png
+category: Services
+title: Avoiding Common Pitfalls
+description: |
+---
+Writing original texts is never easy. This is especially true, if you're writing in a foreign language.<br><br>
+It helps to have a native speaker assist & guide you in the process so to avoid <i>making</i> certain mistakes. Especially those mistakes that are common with non-native speakers most likely won't get caught by your professors either. After all, each nationality has its own set of 'favorite' mistakes.<br><br> But our help extends beyond just simple proof-reading. You will find the style greatly improved overall, with clearer sentences and more precise focus. And this will only help you gain a wider audience and more international recognition.

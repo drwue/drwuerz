@@ -1,0 +1,8 @@
+---
+layout: default
+img: Paper Stack.jpg
+category: Services
+title: No End In Sight?
+description: |
+---
+Sometimes it's hardest to know how to finish, or even _when_ you're finished.

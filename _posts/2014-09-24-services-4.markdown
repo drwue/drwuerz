@@ -1,0 +1,15 @@
+---
+layout: default
+img: mla.png
+category: Services
+title: Academic Standards
+description: |
+---
+  Adhering to Academic Standards is tantamount to any successful piece of academic writing,
+  whether it be a paper or a dissertation. Consistency of quotations, and styles is essential
+  for any submission to be of acceptable quality.<br><br>
+  We can guide you through the slog of rules for different standards, whether it be
+  APA (American Psychological Association), MLA (Modern Language Association) or
+  CMS (Chicago Manual of Style).<br><br>
+  We've got you covered on how to properly quote that article from the web that
+  you were wondering about!
