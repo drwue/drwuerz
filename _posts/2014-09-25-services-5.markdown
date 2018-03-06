@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Paper Stack.jpg
+img: stack.jpg
 category: Services
 title: No End In Sight?
 description: |
