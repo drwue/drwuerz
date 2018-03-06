@@ -1,0 +1,12 @@
+---
+layout: default
+img: frustrated.jpg
+category: Services
+title: Have You Hit a Wall?
+description: |
+---
+Finishing you masterpiece &mdash; your _magnum opus_ &mdash; is not always as easy as you had planned. You can easily lose motivation even when things are going _okay_.<br><br>
+
+Need someone to keep you on schedule? Need someone to bounce ideas off of? Need someone to help you stay focused on the essentials?<br><br>
+
+Sound like a case for Dr. Würz!!

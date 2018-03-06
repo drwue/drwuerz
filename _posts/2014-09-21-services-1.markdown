@@ -1,0 +1,11 @@
+---
+layout: default
+img: notes.jpg
+category: Services
+title: Can't get started?
+description: |
+---
+  First of all:<br>
+  You should _never ever ever_ start with the introduction !!
+  <br><br>
+  We can help you devise strategies for writing, make better decisions about what to focus on.
