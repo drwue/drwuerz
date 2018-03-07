@@ -10,4 +10,4 @@ description: |
   <br><br>
   We can help you devise strategies for writing, so to better focus on what's actually important &ndash; building content.<br><br>
   
-  Only then do we start, working on the aesthetics.
+  Only then do we start working on the aesthetics.
