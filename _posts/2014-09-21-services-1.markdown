@@ -8,4 +8,6 @@ description: |
   First of all:<br>
   You should _never ever ever_ start with the introduction !!
   <br><br>
-  We can help you devise strategies for writing, make better decisions about what to focus on.
+  We can help you devise strategies for writing, so to better focus on what's actually important &ndash; building content.<br><br>
+  
+  Only then do we start, working on the aesthetics.
